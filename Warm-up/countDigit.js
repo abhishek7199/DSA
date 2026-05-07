@@ -1,3 +1,5 @@
+//Q. Write a function that returns the count of digits in a number.
+
 function countDigit(n) {
     let count = 0;
 
